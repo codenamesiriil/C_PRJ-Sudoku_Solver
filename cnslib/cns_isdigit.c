@@ -1,4 +1,4 @@
-//#include "cnslib.h"
+#include "cnslib.h"
 
 int	cns_isdigit(int c)
 {

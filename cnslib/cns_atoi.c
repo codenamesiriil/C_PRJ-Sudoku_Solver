@@ -1,6 +1,4 @@
-//#include "cnslib.h"
-#include "cns_isspace.c"
-#include "cns_isdigit.c"
+#include "cnslib.h"
 
 int	cns_atoi(const char *str)
 {
